@@ -1,0 +1,28 @@
+.color-example {
+    color:darkblue;
+    background-color: #ffff;
+    border: 1px greenyellow;
+}
+
+.header-example {
+    font-size: 29px;
+    font-family: 'Arial', sans-serif;
+    color: lightblue;
+}
+
+.list-example {
+    list-style-type: circle;
+    color: blueviolet;
+}
+
+.text-example {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.div-example {
+    background-color: gray;
+    border: 5px;
+}
