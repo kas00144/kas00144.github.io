@@ -1,0 +1,21 @@
+#header {
+    background-color: #F9E3BC;
+}
+
+#nav {
+    background-color: #F5AC3F;
+}
+
+#section {
+    background-color: #FF6106;
+}
+
+#footer {
+    background-color: #D63E12;
+}
+
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
