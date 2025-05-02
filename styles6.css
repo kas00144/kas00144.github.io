@@ -1,0 +1,42 @@
+#header {
+    background-color: #F9E3BC;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#nav {
+    background-color: #F5AC3F;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+#nav a:hover {
+    color: red;
+}
+
+#sidebar {
+    float: left;
+    padding: 30px;
+    background-color: #52AA24;
+    text-align: left;
+    width: 10%;
+}
+
+#section {
+    padding: 22px;
+    background-color: #FF6106;
+    text-align: center;
+}
+
+#footer {
+    margin-top: 20px;
+    background-color: #D63E12;
+    padding: 10px;
+    text-align: center;
+}
+    
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
